@@ -6,6 +6,6 @@
 
 var vars = {
     file : 'index.html',
-    path : 'http://immovis.github.io/VillaMaya',//path to the index.html
+    path : 'https://immovis.github.io/VillaMaya',//path to the index.html
     theme : 'theasys',
 };
